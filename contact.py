@@ -11,7 +11,7 @@ db_config = {
     'host': 'localhost',
     'port': 3306,  
     'user': 'root',
-    'password': 'Dibyendu@@2002',
+    'password': '',
     'database': 'portfolio'
 }
 
